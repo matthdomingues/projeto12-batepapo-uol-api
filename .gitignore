@@ -1,2 +1,3 @@
-node_modules/
-bate-papo-uol/
+node_modules
+bate-papo-uol
+.env
